@@ -48,6 +48,10 @@ https://youtu.be/awZt8eHfmbQ
 * [Blynk Library](https://github.com/blynkkk/blynk-library)
 * [ModbusMaster](https://github.com/4-20ma/ModbusMaster)
 
+## Schematic
+
+![Tracer Wiring Diagram](doc/schematic.png)
+
 ## Tutorial
 
 Em construção
