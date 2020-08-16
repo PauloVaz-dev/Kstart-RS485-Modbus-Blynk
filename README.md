@@ -72,6 +72,3 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) para mais informações.
 
-# Kstart-RS485-Modbus-Blynk
-# Kstart-RS485-Modbus-Blynk
-# Kstart-RS485-Modbus-Blynk
