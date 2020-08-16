@@ -4,7 +4,7 @@
 
 ## Projeto feito para coletar dados do inversor Ktart via (RS-485 Modbus) com ESP32 e enviar os dados para o Blynk app.
 
-## Projeto em construção, próxima fase é criar um app en React-Native.
+## Projeto em construção, próxima fase é criar um app em React-Native.
 
 ## Hardware
 
